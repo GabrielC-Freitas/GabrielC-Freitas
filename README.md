@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="./assets/noeris-profile.svg" width="100%" alt="Gabriel Freitas. Tecnologia com entendimento. Software, automações e produtos digitais." />
+  <img src="./assets/gabriel-profile.svg" width="100%" alt="Gabriel Freitas. Ideias que viram código. Software, automações e produtos digitais." />
 </p>
 
 <p align="center">
-  <a href="https://noeris.tech"><strong>Noeris</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/gabrielcastrofreitas/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
   <a href="mailto:freitascastrogabriel@gmail.com"><strong>E-mail</strong></a> &nbsp; / &nbsp;
   <a href="https://github.com/GabrielC-Freitas?tab=repositories"><strong>Projetos</strong></a>
@@ -13,7 +12,7 @@
 
 Desenvolvo software, automações e integrações para transformar processos em soluções úteis. Gosto de conectar dados, simplificar operações e construir produtos digitais com atenção à experiência de quem usa.
 
-Na **[Noeris](https://noeris.tech)**, tecnologia começa pelo entendimento: **compreender, construir e transformar**.
+Por aqui, compartilho projetos, experimentos e aprendizados. Da automação em Python às interfaces web, gosto de aprender construindo e encontrar formas mais simples de resolver problemas.
 
 ### O que construo
 
@@ -41,7 +40,7 @@ Na **[Noeris](https://noeris.tech)**, tecnologia começa pelo entendimento: **co
 Para trocar ideias sobre tecnologia, automações ou um novo produto:
 
 **[freitascastrogabriel@gmail.com](mailto:freitascastrogabriel@gmail.com)**  
-[LinkedIn](https://www.linkedin.com/in/gabrielcastrofreitas/) · [Noeris](https://noeris.tech) · [Instagram](https://instagram.com/gabriel_freitas_c)
+[LinkedIn](https://www.linkedin.com/in/gabrielcastrofreitas/) · [Instagram](https://instagram.com/gabriel_freitas_c)
 
 <details>
 <summary>Além do código</summary>
@@ -52,4 +51,4 @@ Para trocar ideias sobre tecnologia, automações ou um novo produto:
 
 ---
 
-<p align="center"><sub>Compreender o problema. Construir com clareza. Transformar com tecnologia.</sub></p>
+<p align="center"><sub>Aprendendo, construindo e conectando ideias.</sub></p>
