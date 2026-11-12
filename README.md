@@ -1,25 +1,55 @@
-<h1 align="center">Gabriel de Castro Freitas</h1><div align="center">
+<p align="center">
+  <img src="./assets/noeris-profile.svg" width="100%" alt="Gabriel Freitas. Tecnologia com entendimento. Software, automações e produtos digitais." />
+</p>
 
-<a href="https://github.com/GabrielC-Freitas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielC-Freitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielC-Freitas&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCzc8auelC4ztS8-JfkxdVMg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabriel_freitas_c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gabenervous" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:freitascastrogabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielcastrofreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+<p align="center">
+  <a href="https://noeris.tech"><strong>Noeris</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/gabrielcastrofreitas/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:freitascastrogabriel@gmail.com"><strong>E-mail</strong></a> &nbsp; / &nbsp;
+  <a href="https://github.com/GabrielC-Freitas?tab=repositories"><strong>Projetos</strong></a>
+</p>
+
+## Olá, sou o Gabriel 👋
+
+Desenvolvo software, automações e integrações para transformar processos em soluções úteis. Gosto de conectar dados, simplificar operações e construir produtos digitais com atenção à experiência de quem usa.
+
+Na **[Noeris](https://noeris.tech)**, tecnologia começa pelo entendimento: **compreender, construir e transformar**.
+
+### O que construo
+
+| Automações & dados | Sistemas & produtos | Integrações |
+| :--- | :--- | :--- |
+| Captura de informações, web scraping e organização de dados. | Aplicações web e ferramentas para tornar o dia a dia mais simples. | Conexões entre serviços, APIs e processos operacionais. |
+
+### Tecnologias
+
+**Python** · **JavaScript** · **C#** · **React** · **HTML** · **CSS**
+
+### Projetos públicos
+
+- **[Busca de placas](https://github.com/GabrielC-Freitas/busca_de_placas)**  
+  Web scraping em Python para extrair e organizar informações.
+- **[Gerenciamento de projetos e tarefas](https://github.com/GabrielC-Freitas/Aplica-o-React-de-Gerenciamento-de-Projetos-e-Tarefas)**  
+  Aplicação construída com React e Material UI.
+- **[FreeWay](https://github.com/GabrielC-Freitas/FreeWay)**  
+  Recriação em JavaScript do clássico jogo de Atari.
+- **[Pedra, papel e tesoura](https://github.com/GabrielC-Freitas/Jogo-de-Pedra-Papel-Tesoura)**  
+  Um dos meus projetos de aprendizado com Python.
+
+### Vamos conversar?
+
+Para trocar ideias sobre tecnologia, automações ou um novo produto:
+
+**[freitascastrogabriel@gmail.com](mailto:freitascastrogabriel@gmail.com)**  
+[LinkedIn](https://www.linkedin.com/in/gabrielcastrofreitas/) · [Noeris](https://noeris.tech) · [Instagram](https://instagram.com/gabriel_freitas_c)
+
+<details>
+<summary>Além do código</summary>
+
+[YouTube](https://www.youtube.com/channel/UCzc8auelC4ztS8-JfkxdVMg) · [Twitch](https://www.twitch.tv/gabenervous)
+
+</details>
+
+---
+
+<p align="center"><sub>Compreender o problema. Construir com clareza. Transformar com tecnologia.</sub></p>
